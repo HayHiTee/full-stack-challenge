@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup
+create .env file from .env.sample template
+
 ## Available Scripts
 
 In the project directory, you can run:

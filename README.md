@@ -25,6 +25,9 @@ the **5 closest breweries** to their state's capital using the [Open Brewery API
 You may choose to remove this boilerplate and use your own tools or any additional tools of your liking. 
 If you choose to use your own tools, please provide information for starting the application.
 
+### Set environment variable in REACT
+1. create .env file and copy .env.sample to it. 
+2. start the python app then set REACT_APP_BACKEND_URL to the url of the python app
 ### Getting Started With Existing Tools
 1. `cd app` > `yarn install` > `PORT=8001 yarn start`
 2. `cd backend` > `pip install -r requirements.txt` > `python manage.py runserver`
